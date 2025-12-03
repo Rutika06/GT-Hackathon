@@ -11,7 +11,7 @@ An automated end-to-end pipeline that:
 
 📥 Ingests data from multiple sources (CSV, SQL databases)
 🔄 Cleans and transforms raw data
-🤖 Generates natural language insights using AI (GPT-4)
+🤖 Generates natural language insights using AI (Gemini)
 📊 Creates beautiful visualizations
 📄 Produces executive-ready PDF and PowerPoint reports
 ⏰ Runs on a schedule without human intervention
@@ -19,9 +19,9 @@ An automated end-to-end pipeline that:
 
 ✨ Features
 Core Capabilities
-FeatureDescriptionStatusMulti-Source IngestionCSV files, PostgreSQL, MySQL support
+Feature Description Status Multi-Source Ingestion CSV filest
 ✅Data ProcessingAutomated cleaning, aggregation, metric calculation
-✅AI AnalysisGPT-4 powered insights and recommendations
+✅AI Analysis Gemini powered insights and recommendations
 ✅PDF ReportsProfessional, formatted PDF generation
 ✅PowerPoint DecksAutomated slide deck creation
 ✅VisualizationsCharts, graphs, and trend analysis
@@ -31,9 +31,6 @@ FeatureDescriptionStatusMulti-Source IngestionCSV files, PostgreSQL, MySQL suppo
 🧠 Natural Language Generation: AI-written executive summaries
 📈 Trend Detection: Automated identification of performance patterns
 🎨 Custom Styling: Brand-aligned report aesthetics
-🔗 Database Integration: Direct SQL query execution
-📧 Email Delivery (optional extension)
-🌐 Web Dashboard (optional extension)
 
 
 🏗️ Architecture
@@ -57,7 +54,7 @@ FeatureDescriptionStatusMulti-Source IngestionCSV files, PostgreSQL, MySQL suppo
          ▼
 ┌─────────────────┐
 │  AI Analysis    │
-│   (GPT-4)       │
+│   (Gemini)       │
 └────────┬────────┘
          │
          ▼
