@@ -1,0 +1,14 @@
+# Virtual env
+venv/
+.env
+
+# IDE & OS files
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Build artifacts
+report/
